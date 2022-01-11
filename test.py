@@ -1,4 +1,4 @@
-from classes.cards import Cards;
+from Labo_Python.cards import Cards;
 
 j1 = Cards();
 print(j1.counter());
